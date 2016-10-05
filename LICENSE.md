@@ -1,5 +1,5 @@
 MIT LICENSE APPLIES TO THIS PROJECT
-
+my sample change
 Copyright (C) 2013, Shikhar Sharma - http://www.shikharsharma.com/
  
 Permission is hereby granted, free of charge, to any person obtaining
